@@ -4,13 +4,11 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+以下の技術を使ってみようの会
+- [flutter_bloc](https://pub.dev/packages/flutter_bloc)
+- [get_it](https://pub.dev/packages/get_it)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://github.com/Zudah228/flutter_bloc_weather/assets/62398366/1f6ef3ef-6325-4369-bc70-e7e8b956cbcd
+
